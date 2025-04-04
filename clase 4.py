@@ -14,7 +14,7 @@ es_falso= False
 
 # tipo de dato lista (list)
 lista = []
-lista = [1, 2, 3, "cuatro" , 5.6]
+lista = [1, 2, 3, "cuatro" , 5.6, [], {}]
 
 # Tipo de conjunto (set)
 conjunto = {1, 2, 3, 5, 5}
